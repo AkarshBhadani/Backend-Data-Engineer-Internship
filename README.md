@@ -20,5 +20,3 @@ All three output files will be stored inside your root folder where all these sc
 
 3.Task3-low-pass-filter- Applying low pass filter technique for noise removal on the data set for 'detailVolDownsampled.csv' and showing the distribution of the dataset through visualization
 
-# Additional
-If you are unable to run .ipynb files then alternate version of .py files are also uploaded inside the Python folder.
